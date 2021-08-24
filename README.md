@@ -27,7 +27,7 @@ Seus usuários devem ser capazes de:
 - Ainda em construção
 
 
-## Deploying your project
+## Implantando seu projeto
 
 As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
 
