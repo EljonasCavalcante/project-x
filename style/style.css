@@ -1,0 +1,16 @@
+/* ============Reset===========*/
+
+* {
+  margin: 0;
+  padding: 0;  
+}
+
+/*=========Navigation =============*/
+
+nav {  
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
