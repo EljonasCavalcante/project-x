@@ -9,3 +9,7 @@ nav {
   border-top: rebeccapurple;
 }
 
+
+a {
+  border-radius: 50px;
+}
